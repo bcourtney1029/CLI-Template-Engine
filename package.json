@@ -1,0 +1,23 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "CLI application that builds an HTML website based on user input",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcourtney1029/CLI-Template-Engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcourtney1029/CLI-Template-Engine/issues"
+  },
+  "homepage": "https://github.com/bcourtney1029/CLI-Template-Engine#readme"
+}
