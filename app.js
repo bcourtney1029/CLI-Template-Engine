@@ -158,9 +158,6 @@ function anotherMember() {
         })
 }
 
-function writeFile() {
-
-}
 
 module.exports = fullTeam;
 
